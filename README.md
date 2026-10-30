@@ -29,10 +29,8 @@ I'm passionate about exploring the intersection of software, hardware and intell
 ## 💻 Tech Stack & Skills
 
 ### 🎀 Programming Languages
-
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,arduino,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,matlab,arduino,git,github,vscode" />
 </p>
 
 ### 🛠️ Tools & Technologies
