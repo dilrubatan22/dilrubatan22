@@ -1,97 +1,87 @@
+# 🌸 Hi, I'm Dilruba Tan!
 
 <div align="center">
 
-# 🩷 Hi, I'm Dilruba! 🎀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,50:E6D6FF,100:FFF0D9&height=230&section=header&text=Dilruba%20Tan&fontSize=65&fontColor=765477&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Creative%20Developer&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
-### 👩🏻‍💻 Computer Engineering Student | Software Developer
+### ♡ Learning, Creating & Exploring Technology ♡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=FF1493&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%92%96;Creative+Mind+%7C+Tech+Lover;Robotics+%26+AI+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Code!+%E2%9C%A8" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,40:FF1493,75:C71585,100:2D001F&height=180&section=header" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=3000&pause=1000&color=C17DB5&center=true&vCenter=true&width=600&lines=Passionate+about+Software+Development;Exploring+Artificial+Intelligence;Learning+Python+and+Java;Interested+in+Robotics+%26+Embedded+Systems)](https://git.io/typing-svg)
 
 </div>
 
-## 🌸 About Me
+---
 
-Hi! I'm **Dilruba**, a Computer Engineering student at Recep Tayyip Erdogan University. 💗
+## 🎀 About Me
 
-I'm passionate about exploring the intersection of software, hardware and intelligent technologies.
+- 🎓 Computer Engineering Student at Recep Tayyip Erdoğan University.
+- 💻 Interested in Software Development and Artificial Intelligence.
+- 🤖 Exploring Robotics, Arduino and Embedded Systems.
+- 🌱 Constantly learning and improving my technical skills.
+- ✨ Interested in technology projects, innovation and teamwork.
 
-- 🎓 Computer Engineering Student
-- 🤖 Interested in Robotics and Manipulator Systems
-- 💻 Exploring Software Development and Artificial Intelligence
-- ⚙️ Interested in Embedded Systems and Hardware Development
-- 🌱 Passionate about Technology and Sustainability
-- 🚀 Always learning, creating and improving myself.
+---
 
-**My goal:** To develop innovative technologies that combine software, hardware and robotics to solve real-world problems.
-
-## 💻 Tech Stack & Skills
-
-### 🎀 Programming Languages
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
-</p>
-
-## 🤖 Areas of Interest
-
-- 💗 Robotics & Manipulator Systems
-- ⚙️ Embedded Systems & Sensors
-- 🧠 Artificial Intelligence & Machine Learning
-- 🔌 Hardware and Software Integration
-- 🌍 Environmental Technologies
-- 📊 Data Analysis
-
-## 📊 GitHub Statistics
+## 🌷 My Technology Garden
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilrubatan22&show_icons=true&hide_border=true&bg_color=2D001F&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilrubatan22&layout=compact&hide_border=true&bg_color=2D001F&title_color=FF69B4&text_color=FFC0CB"/>
-
-<img src="https://streak-stats.demolab.com?user=dilrubatan22&hide_border=true&background=2D001F&ring=FF1493&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FFC0CB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFB6C1"/>
+| 💻 Programming | 🧠 Interests |
+|:---:|:---:|
+| Python | Artificial Intelligence |
+| Java | Machine Learning |
+| C | Robotics |
+| HTML & CSS | Embedded Systems |
+| Arduino | Electronics |
 
 </div>
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dilrubatan22/dilrubatan22/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,arduino,git,github,vscode&theme=light" />
 
 </div>
+
+---
+
+## 🦋 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/dilrubatan22">
+<img src="https://github-readme-stats.vercel.app/api?username=dilrubatan22&show_icons=true&theme=rose_pine&hide_border=true&border_radius=15" height="165"/>
+</a>
+
+<a href="https://github.com/dilrubatan22">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilrubatan22&layout=compact&theme=rose_pine&hide_border=true&border_radius=15" height="165"/>
+</a>
+
+</div>
+
+---
+
+## 🌸 My GitHub Journey
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dilrubatan22&theme=rose-pine&hide_border=true&border_radius=15" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilrubatan22&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
 
 ## 💌 Let's Connect!
 
 <div align="center">
 
 <a href="https://github.com/dilrubatan22">
-<img src="https://img.shields.io/badge/GitHub-2D001F?style=for-the-badge&logo=github&logoColor=FF69B4"/>
+<img src="https://img.shields.io/badge/GitHub-Dilruba_Tan-CB8DBB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+### ✨ "Dream big, code beautifully, and keep growing." ✨
 
-### 💖 "Dream big. Code beautifully. Create endlessly."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D001F,40:C71585,75:FF1493,100:FF69B4&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0D9,50:E6D6FF,100:FFD6E7&height=120&section=footer" width="100%"/>
 
 </div>
