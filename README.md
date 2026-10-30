@@ -13,35 +13,18 @@
 
 ## 🌸 About Me
 
-```python
-class Dilruba:
-    def __init__(self):
-        self.role = "Computer Engineering Student"
-        self.university = "Recep Tayyip Erdogan University"
-        self.languages = [
-            "Python", "C", "C++", "Java",
-            "HTML", "CSS", "R", "MATLAB"
-        ]
-        self.interests = [
-            "Robotics",
-            "Artificial Intelligence",
-            "Hardware Development",
-            "Embedded Systems",
-            "Software Engineering"
-        ]
+Hi! I'm **Dilruba**, a Computer Engineering student at Recep Tayyip Erdogan University. 💜
 
-    def say_hi(self):
-        print("Keep learning, keep creating! 💜")
+I'm passionate about exploring the intersection of software, hardware and intelligent technologies.
 
-me = Dilruba()
-me.say_hi()
-```
+- 🎓 Computer Engineering Student
+- 🤖 Interested in Robotics and Manipulator Systems
+- 💻 Exploring Software Development and Artificial Intelligence
+- ⚙️ Interested in Embedded Systems and Hardware Development
+- 🌱 Passionate about Technology and Sustainability
+- 🚀 Always learning, creating and improving myself.
 
-- 🎓 Computer Engineering student.
-- 🤖 Interested in robotics, AI and hardware development.
-- 💻 Exploring software development and embedded systems.
-- 🌍 Interested in technology and sustainability.
-- 🚀 Always excited to learn, build and collaborate!
+**My goal:** To develop innovative technologies that combine software, hardware and robotics to solve real-world problems.
 
 ## 💻 Tech Stack & Skills
 
