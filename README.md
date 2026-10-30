@@ -1,19 +1,19 @@
 
 <div align="center">
 
-# 💜 Hi, I'm Dilruba!
+# 🩷 Hi, I'm Dilruba! 🎀
 
 ### 👩🏻‍💻 Computer Engineering Student | Software Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%92%9C;Software+%26+Hardware+Enthusiast;Robotics+%26+AI+Explorer+%F0%9F%A4%96;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=FF1493&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%92%96;Creative+Mind+%7C+Tech+Lover;Robotics+%26+AI+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Code!+%E2%9C%A8" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1029,50:7B2CBF,100:CBA6F7&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,40:FF1493,75:C71585,100:2D001F&height=180&section=header" width="100%"/>
 
 </div>
 
 ## 🌸 About Me
 
-Hi! I'm **Dilruba**, a Computer Engineering student at Recep Tayyip Erdogan University. 💜
+Hi! I'm **Dilruba**, a Computer Engineering student at Recep Tayyip Erdogan University. 💗
 
 I'm passionate about exploring the intersection of software, hardware and intelligent technologies.
 
@@ -28,7 +28,7 @@ I'm passionate about exploring the intersection of software, hardware and intell
 
 ## 💻 Tech Stack & Skills
 
-### 💜 Programming Languages
+### 🎀 Programming Languages
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,22 +53,22 @@ I'm passionate about exploring the intersection of software, hardware and intell
 
 ## 🤖 Areas of Interest
 
-- Robotics & Manipulator Systems
-- Embedded Systems & Sensors
-- Artificial Intelligence & Machine Learning
-- Hardware and Software Integration
-- Environmental Technologies
-- Data Analysis
+- 💗 Robotics & Manipulator Systems
+- ⚙️ Embedded Systems & Sensors
+- 🧠 Artificial Intelligence & Machine Learning
+- 🔌 Hardware and Software Integration
+- 🌍 Environmental Technologies
+- 📊 Data Analysis
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilrubatan22&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=CBA6F7&icon_color=CBA6F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilrubatan22&show_icons=true&hide_border=true&bg_color=2D001F&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilrubatan22&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=CBA6F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilrubatan22&layout=compact&hide_border=true&bg_color=2D001F&title_color=FF69B4&text_color=FFC0CB"/>
 
-<img src="https://streak-stats.demolab.com?user=dilrubatan22&theme=midnight-purple&hide_border=true&background=0D1117&ring=CBA6F7&fire=E0AAFF&currStreakLabel=CBA6F7"/>
+<img src="https://streak-stats.demolab.com?user=dilrubatan22&hide_border=true&background=2D001F&ring=FF1493&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FFC0CB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFB6C1"/>
 
 </div>
 
@@ -80,18 +80,18 @@ I'm passionate about exploring the intersection of software, hardware and intell
 
 </div>
 
-## 🌐 Let's Connect!
+## 💌 Let's Connect!
 
 <div align="center">
 
 <a href="https://github.com/dilrubatan22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-2D001F?style=for-the-badge&logo=github&logoColor=FF69B4"/>
 </a>
 
-<br/>
+<br/><br/>
 
-### 💜 "Dream it. Code it. Build it."
+### 💖 "Dream big. Code beautifully. Create endlessly."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1029,50:7B2CBF,100:CBA6F7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D001F,40:C71585,75:FF1493,100:FF69B4&height=140&section=footer"/>
 
 </div>
