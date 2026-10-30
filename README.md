@@ -1,17 +1,17 @@
 
 <div align="center">
 
-# 💚 Hi, I'm Dilruba!
+# 💜 Hi, I'm Dilruba!
 
 ### 👩🏻‍💻 Computer Engineering Student | Software Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%92%9A;Software+%26+Hardware+Enthusiast;Robotics+%26+AI+Explorer+%F0%9F%A4%96;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%92%9C;Software+%26+Hardware+Enthusiast;Robotics+%26+AI+Explorer+%F0%9F%A4%96;Always+Learning+Something+New!" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:00cc44,100:39ff14&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1029,50:7B2CBF,100:CBA6F7&height=150&section=header" width="100%"/>
 
 </div>
 
-## 🌱 About Me
+## 🌸 About Me
 
 ```python
 class Dilruba:
@@ -31,7 +31,7 @@ class Dilruba:
         ]
 
     def say_hi(self):
-        print("Keep learning, keep creating! 💚")
+        print("Keep learning, keep creating! 💜")
 
 me = Dilruba()
 me.say_hi()
@@ -45,7 +45,7 @@ me.say_hi()
 
 ## 💻 Tech Stack & Skills
 
-### Programming Languages
+### 💜 Programming Languages
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -58,7 +58,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
-### Tools & Technologies
+### 🛠️ Tools & Technologies
 
 <p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -81,11 +81,11 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilrubatan22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilrubatan22&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=CBA6F7&icon_color=CBA6F7&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilrubatan22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilrubatan22&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=CBA6F7&text_color=ffffff"/>
 
-<img src="https://streak-stats.demolab.com?user=dilrubatan22&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
+<img src="https://streak-stats.demolab.com?user=dilrubatan22&theme=midnight-purple&hide_border=true&background=0D1117&ring=CBA6F7&fire=E0AAFF&currStreakLabel=CBA6F7"/>
 
 </div>
 
@@ -107,8 +107,8 @@ me.say_hi()
 
 <br/>
 
-### 💚 "Dream it. Code it. Build it."
+### 💜 "Dream it. Code it. Build it."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:00cc44,100:001a00&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1029,50:7B2CBF,100:CBA6F7&height=120&section=footer"/>
 
 </div>
