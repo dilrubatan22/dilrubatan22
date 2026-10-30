@@ -30,11 +30,17 @@ I'm passionate about exploring the intersection of software, hardware and intell
 
 ### 🎀 Programming Languages
 
-<h2 align="center">💻 TECH STACK & TOOLS</h2>
+<h1 align="center">🌈 MY TECH STACK</h1>
+
+<h3 align="center">
+  ✨ Technologies I'm Learning & Exploring ✨
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,matlab,arduino,git,github,vscode&perline=5&theme=dark" width="500"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,matlab,html,css,js,arduino,git,github,vscode&perline=4&theme=light" height="85"/>
 </p>
+
+<h3 align="center">💻 Turning Ideas Into Code</h3>
 
 ### 🛠️ Tools & Technologies
 
