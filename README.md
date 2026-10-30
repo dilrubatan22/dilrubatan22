@@ -5,12 +5,13 @@
 
 ### 👩🏻‍💻 Computer Engineering Student | Software Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=FF1493&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%92%96;Creative+Mind+%7C+Tech+Lover;Robotics+%26+AI+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Code!+%E2%9C%A8" />
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,40:FF1493,75:C71585,100:2D001F&height=180&section=header" width="100%"/>
+<h1>🌸 Dilruba Tan</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=25&duration=2500&pause=800&color=C17DB5&center=true&vCenter=true&width=450&lines=Soft+Creative+Developer+%E2%9C%A8;Computer+Engineering+Student+%F0%9F%8E%80;Dreaming+%E2%80%A2+Creating+%E2%80%A2+Coding+%F0%9F%8C%B8" />
 
 </div>
-
 ## 🌸 About Me
 
 Hi! I'm **Dilruba**, a Computer Engineering student at Recep Tayyip Erdogan University. 💗
